@@ -20,7 +20,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=G-Vengeance&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=G-Vengeance&theme=dark&hide_border=false" width="48%" />
+  
 </p>
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=G-Vengeance&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
