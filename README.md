@@ -1,62 +1,63 @@
-<h1 align="center">Hi there, I'm Gerrio Irfan Pratama 👋</h1>
-<h3 align="center">IoT & Fullstack Developer | Informatics Engineering Graduate</h3>
+<h1 align="center">Gerrio Irfan Pratama</h1>
+<p align="center"><b>IoT & Fullstack Developer | Informatics Engineering Graduate</b></p>
 
 <p align="center">
-  A passionate developer focused on building scalable web applications and smart IoT ecosystems. 
+  A passionate developer focused on building scalable web applications, robust infrastructure, and smart IoT ecosystems.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gerrioirfanpratama/" target="_blank"><b>LinkedIn</b></a> • 
+  <a href="https://instagram.com/ggerrio" target="_blank"><b>Instagram</b></a> • 
+  <a href="mailto:pratamagerrio@gmail.com"><b>Email Direct</b></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently developing and maintaining the **WARAS IoT System**, implementing Fuzzy Learning Automata (FLA) for smart aquaculture.
-- 🌱 Deeply engaged in advanced environmental monitoring, including predictive microclimate control systems for *Tropidolaemus* terrariums.
-- 📝 Actively contributing to academic literature with research publications in Sinta-indexed journals such as **JTIIK** and **JuTISI**.
-- 💼 Actively looking for Fullstack / IoT Developer opportunities in the **Jabodetabek** area.
+
+*   **Core Focus** ── Developing and maintaining the **WARAS IoT System**, implementing Fuzzy Learning Automata (FLA) for smart aquaculture management.
+*   **Research & R&D** ── Deeply engaged in advanced environmental monitoring, including predictive microclimate control systems for *Tropidolaemus* terrariums.
+*   **Publications** ── Actively contributing to academic literature with research publications in Sinta-indexed journals, specifically **JTIIK** and **JuTISI**.
+*   **Current Goal** ── Open to **Fullstack / IoT Developer** opportunities in the **Jabodetabek** area.
 
 ---
 
-## 🌐 Connect with Me
-<p align="left">
-  <a href="https://instagram.com/ggerrio"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.linkedin.com/in/gerrio-pratama-b49903212/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:pratamagerrio@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-</p>
+## 💻 Technical Ecosystem
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><b>Hardware & IoT</b></h4>
+      <ul>
+        <li><code>C++</code> / <code>Python</code></li>
+        <li><code>Arduino Ecosystem</code></li>
+        <li><code>Predictive Microclimate Control</code></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4><b>Fullstack & Cloud</b></h4>
+      <ul>
+        <li><code>Next.js</code> / <code>TypeScript</code></li>
+        <li><code>PHP</code> / <code>MySQL</code></li>
+        <li><code>Kubernetes</code> / <code>DevOps Practices</code></li>
+        <li><code>Cloudflare</code> / <code>Firebase</code></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💻 Tech Stack & Tools
+## 🚀 Highlighted Architecture & Projects
 
-**Internet of Things (IoT) & Hardware**
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+### 🌊 [WARAS IoT System](https://github.com/G-Vengeance/Waras-IoT-Arduino)
+> **Automated Aquaculture Management**
+> Implemented Fuzzy Learning Automata (FLA) algorithm for smart and scalable pond control systems.
+> *Tech Stack: C++, Arduino, Embedded Systems*
 
-**Fullstack Development**
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🚀 Highlighted Projects
-<p align="center">
-  <a href="https://github.com/G-Vengeance/Waras-IoT-Arduino">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=G-Vengeance&repo=Waras-IoT-Arduino&theme=dark" alt="WARAS IoT System" width="48%">
-  </a>
-  <a href="https://github.com/G-Vengeance/dsg-smart-reptile-iot">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=G-Vengeance&repo=dsg-smart-reptile-iot&theme=dark" alt="Tropidolaemus Microclimate Control" width="48%">
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=G-Vengeance&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=G-Vengeance&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=G-Vengeance&theme=dark&no-frame=true&no-bg=true&margin-w=4" />
-</p>
+### 🦎 [Smart Reptile IoT](https://github.com/G-Vengeance/dsg-smart-reptile-iot)
+> **Predictive Microclimate Control**
+> Advanced environmental monitoring and adaptive control tailored for *Tropidolaemus* microclimates.
+> *Tech Stack: Python, IoT Framework, Data Automation*
 
 ---
