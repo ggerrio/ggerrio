@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EBFB8&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Gerrio+Irfan+Pratama;IoT+%2F+Embedded+Systems+Engineer;AI+%26+Automation+Engineer;Fullstack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EBFB8&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Gerrio+Irfan+Pratama;IoT+%2F+Embedded+Systems+Engineer;Building+Hardware+%26+AI+Solutions" />
 
 </div>
 
 <div align="center">
+  <a href="https://gerrio-portfolio.deathg.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-2EBFB8?style=for-the-badge&logo=vercel&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/gerrioirfanpratama/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/ggerrio"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ggerrio/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
 <br>
@@ -90,7 +92,7 @@ End-to-end web apps — from admin panels (Laravel + Filament) to APIs and inter
 |---|---|---|
 | **[WARAS_IoT](https://github.com/ggerrio/WARAS_IoT)** | End-to-end aquaculture IoT system — real-time water quality monitoring, remote actuators, and predictive analytics | `C++` `TypeScript` `Python` |
 | **[waras_esp32_firmware](https://github.com/ggerrio/waras_esp32_firmware)** | ESP32 firmware powering the WARAS monitoring suite | `C` |
-| **[enterprise-branch-growth-agents](https://github.com/ggerrio/enterprise-branch-growth-agents)** | Multi-agent framework for portfolio analysis, dealer volume optimization, and admin dashboards | `Python` |
+| **[enterprise-branch-growth-agents](https://github.com/ggerrio/enterprise-branch-growth-agents)** | Multi-agent framework for portfolio analysis, dealer volume optimization, and admin dashboards | `Python` `TypeScript` |
 | **[b2b-saas-growth-intelligence-100hire](https://github.com/ggerrio/b2b-saas-growth-intelligence-100hire)** | Automated data gathering & research pipeline for AI-powered SEO content in B2B SaaS growth | `Python` |
 | **[IoT-Environmental-Health-Monitoring](https://github.com/ggerrio/IoT-Environmental-Health-Monitoring-)** | Temperature & humidity monitoring using DHT11 + SSD1306 OLED display | `C++` |
 | **[terarium-iot-flask-api](https://github.com/ggerrio/terarium-iot-flask-api)** | Flask backend API for IoT terrarium sensor integration | `Python` |
@@ -127,16 +129,22 @@ rate-limited atau down. Coba salah satu dari ini:
    lalu ganti domain di atas dengan domain Vercel milikmu sendiri.
 -->
 
-
 ---
 
 ## 📫 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gerrioirfanpratama/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ggerrio"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://gerrio-portfolio.deathg.workers.dev/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-2EBFB8?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
 </div>
 
 <div align="center">
-  <sub>Building bridges between hardware, software, and intelligence — one project at a time.</sub>
+  <a href="https://www.linkedin.com/in/gerrioirfanpratama/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ggerrio"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ggerrio/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</div>
+
+<div align="center">
+  <sub>🌟 Building bridges between hardware, software, and intelligence — one project at a time.</sub>
 </div>
